@@ -4,6 +4,6 @@ The Trending YouTube Video Scraper is an automated tool designed to extract data
 
 Features:
 
-Automatic extraction of data from YouTube's top 10 trending videos.
-Email notification system for timely updates on trending videos.
-AWS Lambda-based recurring job for regular updates and a constantly updated trending video list.
+1.Automatic extraction of data from YouTube's top 10 trending videos.
+2.Email notification system for timely updates on trending videos.
+3.AWS Lambda-based recurring job for regular updates and a constantly updated trending video list.
