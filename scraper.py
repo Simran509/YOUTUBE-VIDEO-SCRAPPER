@@ -1,6 +1,4 @@
-"""This file runs on Replit"""
-"""Sometimes the code will not scrape all the videos if the page is not loaded completely. 
-  Import the time module & use the time.sleep(5) command to load the page completely and then find the elements."""
+
 import smtplib
 import os
 import json
